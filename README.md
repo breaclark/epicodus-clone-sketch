@@ -5,12 +5,12 @@
 
 ### Specs
 <div float="left">
-<p width="410">
-<img src="https://raw.githubusercontent.com/breatortilla/epicodus-clone-sketch/master/epicodus1.png">
-<img src="https://raw.githubusercontent.com/breatortilla/epicodus-clone-sketch/master/epicodus2.png">
+<p>
+<img width="200" src="https://raw.githubusercontent.com/breatortilla/epicodus-clone-sketch/master/epicodus1.png">
+<img width="200" src="https://raw.githubusercontent.com/breatortilla/epicodus-clone-sketch/master/epicodus2.png">
 </p>
-<p width="410">
-<img  src="https://raw.githubusercontent.com/breatortilla/epicodus-clone-sketch/master/navigation-screenshot.png">
+<p>
+<img width="400" src="https://raw.githubusercontent.com/breatortilla/epicodus-clone-sketch/master/navigation-screenshot.png">
 </p>
 </div>
 
