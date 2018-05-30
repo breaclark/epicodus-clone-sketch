@@ -4,14 +4,15 @@
 #### By **Brea Borlas**
 
 ### Specs
-
-<p float="left" width="410">
+<div float="left">
+<p width="410">
 <img src="https://raw.githubusercontent.com/breatortilla/epicodus-clone-sketch/master/epicodus1.png">
 <img src="https://raw.githubusercontent.com/breatortilla/epicodus-clone-sketch/master/epicodus2.png">
 </p>
-<p float="left" width="410">
+<p width="410">
 <img  src="https://raw.githubusercontent.com/breatortilla/epicodus-clone-sketch/master/navigation-screenshot.png">
 </p>
+</div>
 
 ## Support and contact details
 
