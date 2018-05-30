@@ -1,0 +1,40 @@
+{ "courses": [{
+  "name": "Intro to Programming",
+  "weeks": [{
+    "name": "Git, HTML, and CSS", "days": [{
+      "name": "Monday",
+      "lessons": ["Learn 1"," Learn 2","Learn 3","Learn 4"]},{
+      "name" : "Tuesday",
+      "lessons": ["Learn A"," Learn B","Learn C","Learn D"]
+      }]
+    }, {
+    "name": "Javascript and jQuery", "days": [{
+       "name": "Wednesday",
+       "lessons": ["Learn 1"," Learn 2","Learn 3","Learn 4"]},{
+       "name" : "Thursday",
+       "lessons": ["Learn A"," Learn B","Learn C","Learn D"]
+       }]
+    }]
+  }, {
+  "name": "C#",
+  "weeks": [{
+    "name": "Basic MVC Web Apps", "days": [{
+      "name": "Monday",
+      "lessons": ["Multiple Controllers"," Learn 2","Learn 3","Learn 4"]},{
+      "name" : "Tuesday",
+      "lessons": ["Learn A"," Learn B","Looping with Razor","Learn D"]
+      }]
+    }, {
+    "name": "Database Basics", "days": [{
+       "name": "Monday",
+       "lessons": ["Learn 1"," Learn 2","Learn 3","Tamagotchi"]},{
+       "name" : "Friday",
+       "lessons": ["Learn A","Pig Dice","Learn D"]
+       }]
+    }]
+  }, {
+  "name": "PHP", "weeks": []
+  }, {
+  "name": "Java", "weeks": []
+  }]
+}
