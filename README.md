@@ -5,9 +5,12 @@
 
 ### Specs
 
-<p float="left">
-<img width="410" src="">
-<img width="410" src="">
+<p float="left" width="410">
+<img src="https://raw.githubusercontent.com/breatortilla/epicodus-clone-sketch/master/epicodus1.png">
+<img src="https://raw.githubusercontent.com/breatortilla/epicodus-clone-sketch/master/epicodus2.png">
+</p>
+<p float="left" width="410">
+<img  src="https://raw.githubusercontent.com/breatortilla/epicodus-clone-sketch/master/navigation-screenshot.png">
 </p>
 
 ## Support and contact details
