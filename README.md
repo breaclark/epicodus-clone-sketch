@@ -4,7 +4,7 @@
 #### By **Brea Borlas**
 
 ### Specs
-
+<div float="left">
 <p float="left">
 <img width="200" src="https://raw.githubusercontent.com/breatortilla/epicodus-clone-sketch/master/epicodus1.png">
 <img width="200" src="https://raw.githubusercontent.com/breatortilla/epicodus-clone-sketch/master/epicodus2.png">
@@ -12,6 +12,7 @@
 <p float="left">
 <img width="400" src="https://raw.githubusercontent.com/breatortilla/epicodus-clone-sketch/master/navigation-screenshot.png">
 </p>
+</div>
 
 ## Support and contact details
 
